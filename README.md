@@ -5,10 +5,10 @@
 
 **🕛01-Class🕛**
 -----------------------------------------------------------------------------
-
+---
 **Recap:** <br>
 My first class was wery nice because our new teacher is good. <br>
-
+---
 > [!NOTE]
  **Tutorial:**  <br>
         **1)** Download zip of my folder <br>
