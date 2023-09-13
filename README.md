@@ -1,10 +1,10 @@
 # 2D-VAP-2324-Strnad
-**ABOUT ME:**
----------------------------------------------------------------------
+
+# **ABOUT ME:**
+
 **Hi, my name is Marek and here is my progression through school 😎**
 
-**🕛01-lesson🕛**
------------------------------------------------------------------------------
+# **🕛01-lesson🕛**
 
 ### **Recap:**
 My first lesson was wery nice because our new teacher is good. <br> 
@@ -17,6 +17,6 @@ the lesson was very entertaining and informative
         **3)** Open index.ntml<br>
         **4)** And here we go you made it 🎉<br>
         
-**🕛02-lesson🕛**
-----------------------------------------------------------------------------
+# **🕛02-lesson🕛**
+
 **N/A**
