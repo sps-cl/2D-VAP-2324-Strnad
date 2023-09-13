@@ -6,7 +6,7 @@
 **🕛01-Class🕛**
 -----------------------------------------------------------------------------
 
-**Recap:**
+### **Recap:**
 My first class was wery nice because our new teacher is good.
 
 > [!NOTE]
