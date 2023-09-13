@@ -6,7 +6,9 @@
 **🕛01-Class🕛**
 -----------------------------------------------------------------------------
 
-**Recap:** <br>
+| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| Recap: |
+ Recap:** <br>
 My first class was wery nice because our new teacher is good. <br>
 
 > [!NOTE]
