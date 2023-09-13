@@ -6,11 +6,11 @@
 **🕛01-Class🕛**
 -----------------------------------------------------------------------------
 
-<h2>**Recap:** <br>
+<h2>**Recap:**</h2> <br>
 My first class was wery nice because our new teacher is good. <br>
 
 ´´´
- <h3>**Tutorial:**  <br>
+ <h3>**Tutorial:** </h3> <br>
         **1)** Download zip of my folder <br>
         **2)** Go to \01-Hodina\index.html <br>
         **3)** Open index.ntml<br>
