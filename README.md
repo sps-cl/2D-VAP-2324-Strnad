@@ -3,13 +3,9 @@
 ---------------------------------------------------------------------
 **Hi, my name is Marek and here is my progression through school 😎**
 
-**Classes**
+**🕛01-Class🕛**
 -----------------------------------------------------------------------------
 
-
-
-
-**🕛01-Class🕛**
 
 My first class was wery nice because our new teacher is good. <br>
 
@@ -19,3 +15,6 @@ My first class was wery nice because our new teacher is good. <br>
         **3)** Open index.ntml<br>
         **4)** And here we go you made it 🎉<br>
         
+**🕛02-Class🕛**
+----------------------------------------------------------------------------
+**N/A**
