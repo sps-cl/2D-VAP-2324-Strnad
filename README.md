@@ -1,5 +1,9 @@
 # 2D-VAP-2324-Strnad
+**ABOUT ME:**
 >**Hi, my name is Marek and here is my progression through school 😎**<br>
+
+--------------------------------------**Classes**---------------------------------------
+
 
 > **01-Class \\** My first class was wery nice because our new teacher is good. <br>
 
