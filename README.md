@@ -1,5 +1,6 @@
 # 2D-VAP-2324-Strnad
-**ABOUT ME:**<br>
+|ABOUT ME:|
+---------------------------------------------------------------------
 | Hi, my name is Marek and here is my progression through school 😎 |
 
 
