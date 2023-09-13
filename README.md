@@ -8,7 +8,7 @@
 
 ### **Recap:**
 My first lesson was wery nice because our new teacher is good. <br> 
-the lesson was very **entertaining** and **informative**
+the lesson was very<u>entertaining</u> and <u>informative</u>
 
 > [!NOTE]
  **Tutorial:**  <br>
