@@ -9,3 +9,4 @@ function createConfetti() {
 }
 
 setInterval(createConfetti, 200); // Interval pro vytváření konfet
+//* Upravila jsem soubor 
